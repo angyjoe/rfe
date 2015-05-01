@@ -1,0 +1,1 @@
+start javaw -jar dist/RandomFrontEnd.jar
